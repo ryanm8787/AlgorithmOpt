@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmTiming", "AlgorithmTiming\AlgorithmTiming.vcxproj", "{183456EC-BCF8-4A64-B6B2-95365A915544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{183456EC-BCF8-4A64-B6B2-95365A915544}.Debug|x64.ActiveCfg = Debug|x64
+		{183456EC-BCF8-4A64-B6B2-95365A915544}.Debug|x64.Build.0 = Debug|x64
+		{183456EC-BCF8-4A64-B6B2-95365A915544}.Release|x64.ActiveCfg = Release|x64
+		{183456EC-BCF8-4A64-B6B2-95365A915544}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC909F3B-60B9-4F59-AEAB-B62DA99BD7D7}
+	EndGlobalSection
+EndGlobal
